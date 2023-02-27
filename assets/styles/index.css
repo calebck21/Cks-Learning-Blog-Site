@@ -9,25 +9,4 @@ body {
     src: url(../font/Hacked-KerX.ttf)
 }
 
-/*-------------IDS-DOWN-BELOW-------------------*/
-#menu-container-bar {
-    background: white;  
-    height: 140px;
-    width: 100%;
-}
-
-#Website-Center-Title {
-    padding: 0;
-    display: inline-block;
-    color: purple;
-    font-family: Hacked-Font;
-    text-decoration: none;
-    font-size: 80px;
-}
-
-/*-------------CLASSES-DOWN-BELOW-------------------*/
-
-.middle-nav-button {
-    height: fit-content;
-    width: fit-content;
-}
+/*-------------ID'S-DOWN-BELOW-------------------*/
