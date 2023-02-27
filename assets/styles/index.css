@@ -1,8 +1,26 @@
-.main-body {
+body {
     margin: 0;
 }
+
+
 /*-------------FONT-DOWN-BELOW-------------------*/
 @font-face {
     font-family: Hacked-Font;
     src: url(../font/Hacked-KerX.ttf)
+}
+
+/*-------------IDS-DOWN-BELOW-------------------*/
+#menu-container-bar {
+    background: purple;
+    width: fit-content;
+    min-width: auto;
+    height: 150px;
+    min-height: 40px;
+}
+/*-------------CLASSES-DOWN-BELOW-------------------*/
+.main-body {
+    width: 1920px;
+    min-width: 800px;
+    height: 1200px;
+    min-height  : 600px;
 }
