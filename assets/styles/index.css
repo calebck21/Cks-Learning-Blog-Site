@@ -3,6 +3,6 @@
 }
 /*-------------FONT-DOWN-BELOW-------------------*/
 @font-face {
-    @font-family: Hacked-Font;
+    font-family: Hacked-Font;
     src: url(../font/Hacked-KerX.ttf)
 }
