@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #e0e0d1;
+    background-color: white;
 }
 
 /*-------------FONT-DOWN-BELOW-------------------*/
@@ -19,13 +19,14 @@ body {
 /*-------------CLASS's-DOWN-BELOW-------------------*/
 
 .main-content-center {
+    background-color: #CFCECE;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 120px;
-    margin-left: auto;
-    margin-right: auto;
-    width: fit-content;
 }
 
 .webpage-title {
@@ -34,7 +35,8 @@ body {
 }
 
 .web-title {
-    font-size: 70px;
+    font-size: 75px;
+    font-weight: 450;
     font-family: Hacked-Font;
     height: fit-content;
     width: fit-content;
