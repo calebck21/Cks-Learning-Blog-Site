@@ -9,6 +9,11 @@ body {
     src: url(../font/Hacked-KerX.ttf)
 }
 
+@font-face {
+    font-family: FiraCode;
+    src: url(../font/FiraCode-VariableFont_wght.ttf)
+}
+
 /*-------------ID'S-DOWN-BELOW-------------------*/
 
 /*-------------CLASS's-DOWN-BELOW-------------------*/
