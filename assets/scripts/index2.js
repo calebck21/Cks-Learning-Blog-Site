@@ -1,0 +1,1 @@
+alert('Please be aware final changes for certain things like website design will be posted in a final.me file located in github repository. Please look at this link to see = https://github.com/calebck21/Cks-Learning-Blog-Site')
