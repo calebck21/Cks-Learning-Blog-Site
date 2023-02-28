@@ -67,6 +67,10 @@ body {
     border-bottom-right-radius: 8px;
 }
 
+.BTN-1:hover {
+    padding: 32px 76px;
+}
+
 .BTN-2 {
     padding: 26px 50px;
     font-weight: 550;
@@ -77,6 +81,10 @@ body {
     border-top-right-radius: 8px;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 4px;
+}
+
+.BTN-2:hover {
+    padding: 28px 72px;
 }
 
 .BTN-3 {
@@ -91,6 +99,10 @@ body {
     border-bottom-right-radius: 8px;
 }
 
+.BTN-3:hover {
+    padding: 28px 72px;
+}
+
 .BTN-4 {
     padding: 26px 70px;
     margin-left: 50px;
@@ -102,4 +114,8 @@ body {
     border-top-right-radius: 8px;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 4px;
+}
+
+.BTN-4:hover {
+    padding: 32px 76px;
 }
