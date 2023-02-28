@@ -56,6 +56,7 @@ body {
 
 .BTN-1 {
     padding: 26px 70px;
+    transition: 400ms;
     margin-right: 50px;
     font-weight: 550;
     font-family: FiraCode;
@@ -71,8 +72,11 @@ body {
     padding: 32px 76px;
 }
 
+/*-----------------------------*/
+
 .BTN-2 {
     padding: 26px 50px;
+    transition: 400ms;
     font-weight: 550;
     font-family: FiraCode;
     text-decoration: none;
@@ -87,8 +91,11 @@ body {
     padding: 28px 72px;
 }
 
+/*-----------------------------*/
+
 .BTN-3 {
     padding: 26px 50px;
+    transition: 400ms;
     font-weight: 550;
     font-family: FiraCode;
     text-decoration: none;
@@ -103,8 +110,11 @@ body {
     padding: 28px 72px;
 }
 
+/*-----------------------------*/
+
 .BTN-4 {
     padding: 26px 70px;
+    transition: 400ms;
     margin-left: 50px;
     font-weight: 550;
     font-family: FiraCode;
@@ -119,3 +129,5 @@ body {
 .BTN-4:hover {
     padding: 32px 76px;
 }
+
+/*-----------------------------*/
